@@ -119,7 +119,7 @@ document.getElementById("submitButton").addEventListener("click", function() {
 	if (email === "") {
 		Swal.fire({
 			icon: 'error',
-			title: '請輸入電子郵件帳號',
+			title: '請輸入電子郵件',
 
 		})
 
